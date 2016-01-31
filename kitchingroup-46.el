@@ -1,8 +1,13 @@
 ;;; kitchingroup-46.el --- preprint for doi:10.1021/ja5015986
 
 ;; Copyright (C) 2016  John Kitchin
-
-;; Author: Ethan L. Demeter, Shayna L. Hilburg, Newell R. Washburn, Terrence J. Collins and John R. Kitchin <jkitchin@andrew.cmu.edu>
+;; Version: 0.0.1
+;; Author: John R. Kitchin <jkitchin@andrew.cmu.edu>
+;;   Ethan L. Demeter
+;;   Shayna L. Hilburg
+;;   Newell R. Washburn
+;;   Terrence J. Collin
+;;
 ;; Keywords:
 ;; DOI: 10.1021/ja5015986
 ;; Journal: J. Am. Chem. Soc.
