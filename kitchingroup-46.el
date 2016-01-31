@@ -6,16 +6,14 @@
 ;;   Ethan L. Demeter
 ;;   Shayna L. Hilburg
 ;;   Newell R. Washburn
-;;   Terrence J. Collin
+;;   Terrence J. Collins
 ;;
 ;; Keywords:
 ;; DOI: 10.1021/ja5015986
 ;; Journal: J. Am. Chem. Soc.
 ;; URL: http://dx.doi.org/10.1021/ja5015986
 ;; Year: 2014
-
-;;; Commentary: Preprint for Electrocatalytic Oxygen Evolution With an Immobilized TAML Activator
-;; @article{demeter-2014-elect-oxygen,
+;; Bibtex: @article{demeter-2014-elect-oxygen,
 ;;   author =	 {Ethan L. Demeter and Shayna L. Hilburg and Newell R. Washburn
 ;;                   and Terrence J. Collins and John R. Kitchin},
 ;;   title =	 {Electrocatalytic Oxygen Evolution With an Immobilized {TAML}
@@ -28,6 +26,9 @@
 ;;   doi =		 {10.1021/ja5015986},
 ;;   url =		 {http://dx.doi.org/10.1021/ja5015986},
 ;; }
+
+;;; Commentary:
+;; Preprint for Electrocatalytic Oxygen Evolution With an Immobilized TAML Activator
 
 ;;
 
