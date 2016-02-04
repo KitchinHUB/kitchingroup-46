@@ -1,4 +1,4 @@
-;;; kitchingroup-46.el --- preprint for doi:10.1021/ja5015986
+;;; kitchingroup-46.el --- Electrocatalytic Oxygen Evolution With an Immobilized {TAML} Activator
 
 ;; Copyright (C) 2016  John Kitchin
 ;; Version: 0.0.1
