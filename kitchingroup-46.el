@@ -25,7 +25,7 @@
 ;;   year =	 2014,
 ;;   doi =		 {10.1021/ja5015986},
 ;;   url =		 {http://dx.doi.org/10.1021/ja5015986},
-;; }
+;;   }
 
 ;;; Commentary:
 ;; Preprint for Electrocatalytic Oxygen Evolution With an Immobilized TAML Activator
